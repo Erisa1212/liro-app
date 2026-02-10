@@ -28,9 +28,9 @@ function CurrentlyReadingCard() {
           <div className="flex items-center gap-3 flex-wrap">
             <span className="text-black">Genre:</span>
             <div className="flex gap-2 flex-wrap">
-              <Label color="bg-rose-100 text-rose-600">Self-Help</Label>
-              <Label color="bg-stone-200 text-stone-700">Nonfiction</Label>
-              <Label color="bg-rose-100 text-rose-600">Psychology</Label>
+              <Label color="bg-[#BE123C] text-white">Self-Help</Label>
+              <Label color="bg-[#F9A8D4] text-[#881337]">Non-fiction</Label>
+              <Label color="bg-[#881337] text-white">Psychology</Label>
             </div>
           </div>
 
