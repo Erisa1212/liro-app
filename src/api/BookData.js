@@ -276,7 +276,7 @@ export const bookDatabase = [
     genres: [
       { name: 'Design', color: 'bg-[#BE123C] text-white' },
       { name: 'Mindfulness', color: 'bg-[#881337] text-white' },
-      { name: 'Nonfiction', color: '[#F9A8D4] text-[#164E63]' },
+      { name: 'Nonfiction', color: 'bg-[#F9A8D4] text-[#164E63]' },
     ],
   },
 ];
