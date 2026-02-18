@@ -264,6 +264,21 @@ export const bookDatabase = [
       { name: 'Nonfiction', color: 'bg-[#F9A8D4] text-[#881337]' },
     ],
   },
+  {
+    id: 107,
+    title: 'Mindful Creative',
+    author: 'Radim Malinic',
+    image: 'src/assets/mindful-creative.jpeg',
+    isbn: '9780993540059',
+    totalPages: 224,
+    datePublished: '2023',
+    publisher: 'Brand Nu Limited',
+    genres: [
+      { name: 'Design', color: 'bg-[#0E7490] text-white' },
+      { name: 'Mindfulness', color: 'bg-[#164E63] text-white' },
+      { name: 'Nonfiction', color: 'bg-[#A5F3FC] text-[#164E63]' },
+    ],
+  },
 ];
 
 export const getCurrentlyReadingBooks = () => booksData.currentlyReading;
